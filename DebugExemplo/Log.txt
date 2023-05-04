@@ -1,0 +1,44 @@
+Apr 27, 2023 8:58:14 PM Principal main
+INFO: Log de informação
+Apr 27, 2023 8:58:14 PM Principal main
+WARNING: Log de Aviso
+Apr 27, 2023 8:58:14 PM Principal main
+SEVERE: Log Severo
+Apr 27, 2023 8:58:22 PM Principal main
+INFO: O resultado da calculadora ficou assim 20.0
+Apr 27, 2023 9:02:02 PM Principal main
+INFO: Log de informação
+Apr 27, 2023 9:02:02 PM Principal main
+WARNING: Log de Aviso
+Apr 27, 2023 9:02:02 PM Principal main
+SEVERE: Log Severo
+Apr 27, 2023 9:02:17 PM Principal main
+INFO: O resultado da calculadora ficou assim 30.0
+May 04, 2023 7:22:50 PM Principal main
+INFO: Log de informação
+May 04, 2023 7:22:50 PM Principal main
+WARNING: Log de Aviso
+May 04, 2023 7:22:50 PM Principal main
+SEVERE: Log Severo
+May 04, 2023 7:22:50 PM Principal main
+INFO: Ininiciando a calculadora
+May 04, 2023 7:23:00 PM Principal main
+INFO: O resultado da calculadora ficou assim 30.0
+May 04, 2023 7:23:31 PM Principal main
+INFO: Log de informação
+May 04, 2023 7:23:31 PM Principal main
+WARNING: Log de Aviso
+May 04, 2023 7:23:31 PM Principal main
+SEVERE: Log Severo
+May 04, 2023 7:23:31 PM Principal main
+INFO: Ininiciando a calculadora
+May 04, 2023 7:23:38 PM Principal main
+INFO: O resultado da calculadora ficou assim 111.0
+May 04, 2023 7:23:57 PM Principal main
+INFO: Log de informação
+May 04, 2023 7:23:57 PM Principal main
+WARNING: Log de Aviso
+May 04, 2023 7:23:57 PM Principal main
+SEVERE: Log Severo
+May 04, 2023 7:23:57 PM Principal main
+INFO: Ininiciando a calculadora
